@@ -76,3 +76,6 @@ function startOver() {
     gamePattern = [];
     started = false;
 }
+function myfunction() {
+    nextSequence();
+}
